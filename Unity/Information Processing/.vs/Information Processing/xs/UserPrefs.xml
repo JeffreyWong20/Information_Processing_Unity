@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D3301565-DED7-BB99-3625-F12C4758FAAE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MyNetworkManger.cs">
+    <Files>
+      <File FileName="Assets/LoginMenu.cs" Line="159" Column="96" />
+      <File FileName="Assets/Script/Initiate.cs" />
+      <File FileName="Assets/Bomb/BombAction.cs" />
+      <File FileName="Assets/Script/inputfpga.cs" Line="103" Column="67" />
+      <File FileName="Assets/WaitingMenu.cs" />
+      <File FileName="Assets/Leaderboard.cs" />
+      <File FileName="Assets/ChangeScene.cs" Line="34" Column="13" NotebookId="1" />
+      <File FileName="Assets/Car/cars.cs" NotebookId="1" />
+      <File FileName="Assets/Script/Carsmotion1.cs" NotebookId="1" />
+      <File FileName="Assets/Script/MyNetworkManger.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cf37da73-13dd-4e98-89cc-98932be12e6d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

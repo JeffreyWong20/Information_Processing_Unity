@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D3301565-DED7-BB99-3625-F12C4758FAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrelSync", "ParrelSync.csproj", "{64EA27B8-321E-7504-3E99-F71E5E06DC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{E4E8F571-BFBA-608E-3027-C8E7DF6BCD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3301565-DED7-BB99-3625-F12C4758FAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3301565-DED7-BB99-3625-F12C4758FAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3301565-DED7-BB99-3625-F12C4758FAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3301565-DED7-BB99-3625-F12C4758FAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EA27B8-321E-7504-3E99-F71E5E06DC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA27B8-321E-7504-3E99-F71E5E06DC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA27B8-321E-7504-3E99-F71E5E06DC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA27B8-321E-7504-3E99-F71E5E06DC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E8F571-BFBA-608E-3027-C8E7DF6BCD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E8F571-BFBA-608E-3027-C8E7DF6BCD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E8F571-BFBA-608E-3027-C8E7DF6BCD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E8F571-BFBA-608E-3027-C8E7DF6BCD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
